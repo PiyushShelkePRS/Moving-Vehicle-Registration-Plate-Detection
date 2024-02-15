@@ -8,6 +8,13 @@ This project aims to detect and recognize license plates on moving vehicles usin
 - [Installation](#installation)
 - [Usage](#usage)
 
+# My Project
+
+![Project Logo](Images/About IT.png)
+
+This is a brief description of my project.
+
+
 ## Introduction
 
 The ability to detect and recognize license plates on moving vehicles has numerous applications including traffic monitoring, law enforcement, toll collection, and parking management. 
