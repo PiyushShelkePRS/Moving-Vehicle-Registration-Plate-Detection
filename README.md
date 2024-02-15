@@ -10,7 +10,7 @@ This project aims to detect and recognize license plates on moving vehicles usin
 
 # My Project
 
-![Project Logo](Images/About IT.png)
+![Project Logo](Images/https://github.com/PiyushShelkePRS/Image/blob/main/About%20IT.png?raw=true)
 
 This is a brief description of my project.
 
